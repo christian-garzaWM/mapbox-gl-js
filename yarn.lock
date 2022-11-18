@@ -7454,10 +7454,9 @@ subarg@^1.0.0:
   dependencies:
     minimist "^1.1.0"
 
-supercluster@^7.1.5:
+"supercluster@https://github.com/christian-garzaWM/supercluster.git":
   version "7.1.5"
-  resolved "https://registry.yarnpkg.com/supercluster/-/supercluster-7.1.5.tgz#65a6ce4a037a972767740614c19051b64b8be5a3"
-  integrity sha512-EulshI3pGUM66o6ZdH3ReiFcvHpM3vAigyK+vcxdjpJyEbIIrtbmBdY23mGgnI24uXiGFvrGq9Gkum/8U7vJWg==
+  resolved "https://github.com/christian-garzaWM/supercluster.git#d8ec51e54bac6c61f79dad0703efcc146b9c4112"
   dependencies:
     kdbush "^3.0.0"
 
