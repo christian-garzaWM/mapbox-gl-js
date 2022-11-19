@@ -1,10 +1,10 @@
 /rollup/build/
-/dist/mapbox-gl*
-/dist/versions*
-/dist/style-spec
-*.es.js
-*.js.map
-*.cjs.map
+# /dist/mapbox-gl*
+# /dist/versions*
+# /dist/style-spec
+# *.es.js
+# *.js.map
+# *.cjs.map
 node_modules
 package-lock.json
 .vscode/
